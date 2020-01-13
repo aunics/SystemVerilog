@@ -1,8 +1,0 @@
-class constraint_layering;
-endclass // constraint_layering
-
-module test;
-
-endmodule // test
-
-     
